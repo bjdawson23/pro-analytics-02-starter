@@ -32,8 +32,8 @@ Complete each step in the following guide.
 It includes the critical commands to set up your local environment (and activate it):
 
 ```shell
-uv venv
 uv python pin 3.12
+uv venv
 uv sync --extra dev --extra docs --upgrade
 uv run pre-commit install
 uv run python --version
