@@ -13,6 +13,19 @@
 
 ---
 
+Documentation
+
+This repository includes an associated [documentation site](https://denisecase.github.io/pro-analytics-02/).
+
+    The site provides both a reference and a worked example
+    Source files live in the docs/ directory
+    Navigation and visibility are controlled by mkdocs.yml
+    Documentation may be edited, reorganized, or removed
+
+If documentation is not needed, you may delete docs/ and mkdocs.yml without affecting the rest of the project.
+
+---
+
 ## WORKFLOW 1. Set Up Your Machine
 
 Proper setup is critical.
